@@ -5,4 +5,4 @@ langchain
 langchain-core
 langchain-google-genai
 requests
-pydantirequrim
+pydantic
