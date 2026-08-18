@@ -5,4 +5,4 @@ langchain
 langchain-core
 langchain-google-genai
 requests
-pydantic
+sse_starlette
